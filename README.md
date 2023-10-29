@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jakkula Sasikiran</h1>
-<h3 align="center">Associate Software Engineer (Research and Development)</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasikiranj" alt="sasikiranj" /></a> </p>
 
-- 🌱 I’m currently learning **End to End to Machine Learning Practices**
-
 - 👨‍💻 All of my projects are available at [https://www.github.com/SasikiranJ](https://www.github.com/SasikiranJ)
 
-- 💬 Ask me about **Python, Machine Learning, Data Science**
+- 💬 Ask me about **Full Stack Development, Python, Machine Learning, Data Science**
 
 - 📫 How to reach me **sasikiran1115@gmail.com**
 
