@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sasikiran1115@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/156YS2cUxowlvY-Az4PHjVVYOfuZUpZUU/view?usp=sharing](https://drive.google.com/file/d/156YS2cUxowlvY-Az4PHjVVYOfuZUpZUU/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JVsg0Y8n_hcJ-YI2iYJy4zDvMiWIa_fm/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
