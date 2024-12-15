@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/SasikiranJ](https://www.github.com/SasikiranJ)
 
-- 💬 Ask me about **Full Stack Development, Python, Machine Learning, Data Science**
+- 💬 Ask me about **Java Backend Development, Python, Machine Learning, Data Science**
 
 - 📫 How to reach me **sasikiran1115@gmail.com**
 
